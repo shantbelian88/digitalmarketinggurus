@@ -1,39 +1,35 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
-  // pathPrefix: "",
-  siteImage: "preview.jpg",
-  siteLanguage: "en",
+	siteTitle: 'Digital Marketing Gurus', // <title>
+	shortSiteTitle: 'Digital Marketing Gurus', // <title> ending for posts and pages
+	siteDescription: 'This is a website of a student created for study purposes only.',
+	siteUrl: 'https://gatsby-starter-hero-blog.greglobinski.com',
+	// pathPrefix: "",
+	siteImage: 'preview.jpg',
+	siteLanguage: 'en',
 
-  /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+	/* author */
+	authorName: 'SB',
+	authorTwitterAccount: 'SB',
 
-  /* info */
-  headerTitle: "Digital Marketing Gurus",
-  headerSubTitle: "Your one stop for digital marketing",
+	/* info */
+	headerTitle: 'Digital Marketing Gurus',
+	headerSubTitle: 'Your one stop for digital marketing',
 
-  /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
-  manifestStartUrl: "/index.html",
-  manifestBackgroundColor: "white",
-  manifestThemeColor: "#666",
-  manifestDisplay: "standalone",
+	/* manifest.json */
+	manifestName: 'HeroBlog - a GatsbyJS starter',
+	manifestShortName: 'HeroBlog', // max 12 characters
+	manifestStartUrl: '/index.html',
+	manifestBackgroundColor: 'white',
+	manifestThemeColor: '#666',
+	manifestDisplay: 'standalone',
 
-  // gravatar
-  // Use your Gravatar image. If empty then will use src/images/jpg/avatar.jpg
-  // Replace your email adress with md5-code.
-  // Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
-  // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
-  gravatarImgMd5: "",
+	// gravatar
+	// Use your Gravatar image. If empty then will use src/images/jpg/avatar.jpg
+	// Replace your email adress with md5-code.
+	// Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
+	// gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
+	gravatarImgMd5: '',
 
-  // social
-  authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
-  ]
+	// social
+	authorSocialLinks: [{ name: 'github', url: '' }, { name: 'twitter', url: '' }, { name: 'facebook', url: '' }],
 };
