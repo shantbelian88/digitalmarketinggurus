@@ -4,7 +4,7 @@ module.exports = {
 	siteDescription: 'This is a website of a student created for study purposes only.',
 	siteUrl: 'https://gatsby-starter-hero-blog.greglobinski.com',
 	// pathPrefix: "",
-	siteImage: 'preview.jpg',
+	siteImage: 'preview.png',
 	siteLanguage: 'en',
 
 	/* author */
