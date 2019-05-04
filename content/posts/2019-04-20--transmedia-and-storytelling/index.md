@@ -1,7 +1,7 @@
 ---
 title: The art of transmedia and storytelling.
 cover: transmedia.jpg
-author: greg lobinski
+author: John Smith
 ---
 
 Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
